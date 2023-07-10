@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\bin\Debug\net6.0\OopsProblems.exe
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\bin\Debug\net6.0\OopsProblems.deps.json
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\bin\Debug\net6.0\OopsProblems.runtimeconfig.json
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\bin\Debug\net6.0\OopsProblems.dll
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\bin\Debug\net6.0\OopsProblems.pdb
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\OopsProblems.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\OopsProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\OopsProblems.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\OopsProblems.AssemblyInfo.cs
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\OopsProblems.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\OopsProblems.dll
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\refint\OopsProblems.dll
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\OopsProblems.pdb
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\OopsProblems.genruntimeconfig.cache
+C:\Users\acer\source\repos\OopsProblems\OopsProblems\obj\Debug\net6.0\ref\OopsProblems.dll
